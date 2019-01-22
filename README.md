@@ -1,5 +1,5 @@
 # GitLab Notifications in Discord
-Tutorial to send GitLab notifications to discord channel, use this if you are receiving a ``cannot send empty message` error
+Tutorial to send GitLab notifications to a discord channel, use this if you are receiving a `cannot send empty message` error
 
 In discord go to the channel that will receive de notifications and create a new WebHook
 - `Right click on the channel` -> `Edit Channel` -> `WebHooks` -> `Create WebHook`
